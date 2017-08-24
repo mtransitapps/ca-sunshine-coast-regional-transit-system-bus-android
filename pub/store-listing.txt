@@ -5,7 +5,7 @@ Sunshine Coast Regional TS buses for MonTransit.
 Schedule. Alerts. News.
 ----------
 What's new in this version?:
-Schedule from February 1, 2017 to September 4, 2017.
+Schedule from February 1, 2017 to October 9, 2017.
 Tweets from @BCTransit.
 ----------
 Full description:
