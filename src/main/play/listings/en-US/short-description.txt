@@ -1,2 +1,1 @@
-Sunshine Coast Regional TS buses for MonTransit.
-Schedule. Alerts. News.
+Sunshine Coast Regional Transit buses for MonTransit. Schedule. Alerts. News.
