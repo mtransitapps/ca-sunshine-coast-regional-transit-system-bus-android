@@ -54,7 +54,7 @@ public class SunshineCoastRegionalTransitSystemBusAgencyTools extends DefaultAge
 
 	@Override
 	public @Nullable String getRouteIdCleanupRegex() {
-		return "\\-[A-Z]?$";
+		return "\\-[A-Z]+$";
 	}
 
 	@Override
