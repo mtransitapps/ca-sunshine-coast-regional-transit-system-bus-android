@@ -1,0 +1,44 @@
+{
+    "default_route_id_enabled": true,
+    "use_route_short_name_for_route_id": false,
+    "route_id_cleanup_regex": "\\-[A-Z]+$",
+    "route_colors_ignored": [
+        "000000"
+    ],
+    "route_colors": [
+        {
+            "route_short_name": "1",
+            "color": "114D8A"
+        },
+        {
+            "route_short_name": "2",
+            "color": "8BC340"
+        },
+        {
+            "route_short_name": "3",
+            "color": "28A8DF"
+        },
+        {
+            "route_short_name": "4",
+            "color": "FC278F"
+        },
+        {
+            "route_short_name": "90",
+            "color": "F78A21"
+        }
+    ],
+    "default_route_long_name_enabled": true,
+    "direction_finder_enabled": true,
+    "trip_headsign_remove_via": true,
+    "trip_headsign_cleaners": [
+        {
+            "regex": "express",
+            "ignore_case": true,
+            "is_word": true
+        },
+        {
+            "regex": "( local.*$)",
+            "ignore_case": true
+        }
+    ]
+}
